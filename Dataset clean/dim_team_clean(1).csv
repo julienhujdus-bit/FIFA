@@ -1,0 +1,332 @@
+code_pays,pays,confederation,rank,points,previous_rank,previous_points
+DN,Aden,,,,,
+AF,Afghanistan,AFC,156.0,1023.04,154.0,1023.04
+AL,Albania,UEFA,66.0,1354.11,66.0,1361.81
+DZ,Algeria,CAF,37.0,1489.1,41.0,1480.59
+AD,Andorra,UEFA,151.0,1035.2,152.0,1028.7
+AO,Angola,CAF,119.0,1155.9,120.0,1149.08
+AI,Anguilla,CONCACAF,210.0,790.74,210.0,790.74
+AG,Antigua and Barbuda,CONCACAF,131.0,1117.01,132.0,1117.01
+AR,Argentina,CONMEBOL,3.0,1773.88,3.0,1770.65
+AM,Armenia,UEFA,93.0,1233.93,92.0,1242.42
+AW,Aruba,CONCACAF,201.0,855.37,202.0,855.37
+AU,Australia,AFC,38.0,1488.72,39.0,1483.73
+AT,Austria,UEFA,34.0,1492.95,33.0,1502.47
+AH,Austria-Hungary,,,,,
+AZ,Azerbaijan,UEFA,123.0,1146.72,128.0,1127.17
+BS,Bahamas,CONCACAF,202.0,854.8,203.0,854.8
+BS_loc,in the Bahamas,,,,,
+BH,Bahrain,AFC,85.0,1280.64,85.0,1289.25
+BD,Bangladesh,AFC,192.0,884.45,192.0,883.18
+BB,Barbados,CONCACAF,166.0,982.27,166.0,982.27
+UT,Basutoland,,,,,
+BY,Belarus,UEFA,97.0,1221.06,96.0,1226.55
+BC,Belgian Congo,,,,,
+BE,Belgium,UEFA,2.0,1816.71,2.0,1821.92
+BZ,Belize,CONCACAF,176.0,950.88,175.0,950.88
+OR,Belorussia,,,,,
+BJ,Benin,CAF,91.0,1247.47,91.0,1258.71
+BM,Bermuda,CONCACAF,169.0,977.47,168.0,977.47
+BT,Bhutan,AFC,185.0,910.96,186.0,910.96
+HA,Bohemia,,,,,
+EM,Bohemia and Moravia,,,,,
+BO,Bolivia,CONMEBOL,82.0,1296.28,81.0,1298.81
+BQ,Bonaire,,,,,
+BA,Bosnia and Herzegovina,UEFA,58.0,1403.51,57.0,1403.98
+BW,Botswana,CAF,148.0,1056.46,146.0,1060.17
+VG,British Virgin Islands,CONCACAF,209.0,809.32,209.0,809.32
+VG_loc,in the British Virgin Islands,,,,,
+BX,British Honduras,,,,,
+RI,British India,,,,,
+RG,British Guiana,,,,,
+BR,Brazil,CONMEBOL,1.0,1841.3,1.0,1837.56
+BN,Brunei,,,,,
+BG,Bulgaria,UEFA,72.0,1335.36,74.0,1325.16
+BF,Burkina Faso,CAF,54.0,1432.25,55.0,1425.64
+BU,Burma,,,,,
+BI,Burundi,CAF,141.0,1076.26,141.0,1076.26
+KH,Cambodia,AFC,177.0,948.62,174.0,954.3
+CM,Cameroon,CAF,43.0,1471.44,38.0,1484.95
+CA,Canada,CONCACAF,41.0,1475.0,43.0,1473.82
+CV,Cape Verde,,,,,
+KY,Cayman Islands,CONCACAF,195.0,865.72,196.0,865.72
+KY_loc,in the Cayman Islands,,,,,
+CF,Central African Republic,CAF,132.0,1116.97,133.0,1116.06
+CE,Ceylon,,,,,
+TD,Chad,CAF,181.0,930.22,181.0,931.98
+HG,Chagos Islands,,,,,
+CL,Chile,CONMEBOL,29.0,1509.61,29.0,1514.86
+CN,China,AFC,79.0,1305.06,78.0,1305.06
+DS,Commonwealth of Independent States,,,,,
+DS_loc,in the Commonwealth of Independent States,,,,,
+CX,Christmas Island,,,,,
+CC,Cocos Islands,,,,,
+CO,Colombia,CONMEBOL,17.0,1611.04,17.0,1604.07
+KM,Comoros,CAF,129.0,1123.18,127.0,1127.44
+KM_loc,in the Comoros,,,,,
+CG,Congo,CAF,100.0,1208.79,99.0,1215.09
+CB,Congo-Brazzaville,,,,,
+CJ,Congo-Leopoldville,,,,,
+CQ,Congo-Kinshasa,,,,,
+CK,Cook Islands,OFC,189.0,899.33,189.0,899.33
+CK_loc,in the Cook Islands,,,,,
+CR,Costa Rica,CONCACAF,31.0,1503.59,34.0,1500.06
+HR,Croatia,UEFA,12.0,1645.64,15.0,1632.15
+CU,Cuba,CONCACAF,167.0,978.65,167.0,978.65
+CW,Curaçao,CONCACAF,86.0,1278.64,84.0,1293.35
+CY,Cyprus,UEFA,110.0,1183.82,108.0,1180.52
+CZ,Czechia,UEFA,35.0,1492.21,32.0,1502.9
+CS,Czechoslovakia,,,,,
+DH,Dahomey,,,,,
+DK,Denmark,UEFA,10.0,1666.57,10.0,1665.47
+DJ,Djibouti,CAF,193.0,875.05,193.0,877.84
+DM,Dominica,CONCACAF,184.0,911.51,185.0,911.51
+DO,Dominican Republic,CONCACAF,153.0,1031.86,151.0,1031.86
+DO_loc,in the Dominican Republic,,,,,
+CD,Democratic Republic of Congo,,,,,
+CD_loc,in the Democratic Republic of the Congo,,,,,
+DI,Dutch East Indies,,,,,
+DD,East Germany,,,,,
+EP,East Pakistan,,,,,
+TL,East Timor,,,,,
+AS,Eastern Samoa,,,,,
+EC,Ecuador,CONMEBOL,44.0,1464.39,44.0,1463.74
+EG,Egypt,CAF,39.0,1486.44,40.0,1482.63
+SV,El Salvador,CONCACAF,74.0,1330.51,71.0,1333.48
+EN,England,UEFA,5.0,1728.47,5.0,1737.46
+GQ,Equatorial Guinea,CAF,98.0,1215.66,98.0,1215.33
+ER,Eritrea,CAF,200.0,855.56,201.0,855.56
+EE,Estonia,UEFA,109.0,1184.64,110.0,1177.4
+ET,Ethiopia,CAF,138.0,1091.19,138.0,1088.27
+FK,Falkland Islands,,,,,
+FK_loc,in the Falkland Islands,,,,,
+FO,Faroe Islands,UEFA,122.0,1147.17,125.0,1136.29
+FO_loc,in the Faroe Islands,,,,,
+FJ,Fiji,OFC,163.0,989.43,163.0,993.37
+FI,Finland,UEFA,56.0,1405.6,59.0,1398.41
+FR,France,UEFA,4.0,1759.78,4.0,1764.85
+FC,French Congo,,,,,
+FS,French Somaliland,,,,,
+FN,French Sudan,,,,,
+FT,French Togoland,,,,,
+GF,French Guiana,,,,,
+FM,Federated States of Micronesia,,,,,
+FM_loc,in the Federated States of Micronesia,,,,,
+GA,Gabon,CAF,81.0,1301.84,79.0,1301.84
+GM,Gambia,,,,,
+GM_loc,in The Gambia,,,,,
+GE,Georgia,UEFA,78.0,1307.34,82.0,1296.46
+DE,Germany,UEFA,11.0,1650.21,11.0,1658.96
+GH,Ghana,CAF,61.0,1393.0,60.0,1393.47
+GI,Gibraltar,UEFA,204.0,852.16,200.0,856.55
+GC,Gold Coast,,,,,
+GB,Great Britain,,,,,
+GR,Greece,UEFA,52.0,1437.6,49.0,1441.45
+GL,Greenland,,,,,
+GD,Grenada,CONCACAF,173.0,963.72,171.0,969.0
+GP,Guadeloupe,,,,,
+GU,Guam,AFC,205.0,838.33,205.0,838.33
+GT,Guatemala,CONCACAF,118.0,1156.7,118.0,1161.96
+GN,Guinea,CAF,83.0,1290.47,83.0,1294.89
+GW,Guinea-Bissau,CAF,116.0,1160.71,115.0,1165.53
+GY,Guyana,CONCACAF,171.0,968.74,172.0,968.74
+HT,Haiti,CONCACAF,87.0,1269.07,88.0,1269.07
+HN,Honduras,CONCACAF,80.0,1301.98,80.0,1299.69
+HK,Hong Kong,AFC,145.0,1062.39,147.0,1058.37
+HU,Hungary,UEFA,36.0,1492.2,37.0,1486.76
+IS,Iceland,UEFA,62.0,1384.41,63.0,1379.61
+IN,India,AFC,106.0,1192.09,104.0,1198.65
+ID,Indonesia,AFC,152.0,1033.9,155.0,1019.19
+IR,Iran,AFC,20.0,1564.61,22.0,1558.64
+IQ,Iraq,AFC,68.0,1343.01,70.0,1338.91
+IE,Ireland,UEFA,49.0,1440.19,47.0,1442.48
+IL,Israel,UEFA,76.0,1316.55,76.0,1316.35
+IT,Italy,UEFA,6.0,1726.14,7.0,1713.86
+CI,Ivory Coast,CAF,48.0,1443.06,52.0,1435.91
+JM,Jamaica,CONCACAF,64.0,1378.86,62.0,1382.06
+JP,Japan,AFC,24.0,1559.54,24.0,1554.69
+JO,Jordan,AFC,84.0,1289.99,86.0,1279.74
+KZ,Kazakhstan,UEFA,113.0,1166.63,114.0,1166.28
+KE,Kenya,CAF,101.0,1202.26,102.0,1202.26
+KU,Khmer Republic,,,,,
+KI,Kiribati,,,,,
+KA,Korea,,,,,
+KO,Kosovo,UEFA,107.0,1187.01,106.0,1183.9
+KD,Kurdistan,,,,,
+KW,Kuwait,AFC,149.0,1053.41,149.0,1053.41
+KG,Kyrgyzstan,,,,,
+LA,Laos,AFC,187.0,905.51,183.0,914.66
+LV,Latvia,UEFA,134.0,1114.21,129.0,1125.36
+LB,Lebanon,AFC,99.0,1211.71,100.0,1211.71
+LS,Lesotho,CAF,147.0,1061.4,145.0,1061.4
+LR,Liberia,CAF,150.0,1049.66,150.0,1051.25
+LY,Libya,CAF,120.0,1154.25,121.0,1148.36
+LI,Liechtenstein,UEFA,196.0,862.39,194.0,873.99
+LT,Lithuania,UEFA,144.0,1069.75,142.0,1074.08
+LU,Luxembourg,UEFA,92.0,1243.8,93.0,1235.36
+MO,Macao,,,,,
+MK,Macedonia,,,,,
+MG,Madagascar,CAF,102.0,1200.74,105.0,1193.78
+MW,Malawi,CAF,124.0,1144.97,122.0,1144.77
+AY,Malaya,,,,,
+MY,Malaysia,AFC,146.0,1062.32,148.0,1057.59
+MV,Maldives,AFC,154.0,1026.09,156.0,1018.25
+MV_loc,in the Maldives,,,,,
+ML,Mali,CAF,46.0,1448.85,46.0,1442.88
+MI,Mali Federation,,,,,
+MI_loc,in the Mali Federation,,,,,
+MT,Malta,UEFA,168.0,977.92,169.0,974.68
+MH,Marshall Islands,,,,,
+MH_loc,in the Marshall Islands,,,,,
+MQ,Martinique,,,,,
+MR,Mauritania,CAF,103.0,1197.58,107.0,1181.86
+MU,Mauritius,CAF,180.0,932.02,180.0,932.02
+YT,Mayotte,,,,,
+MX,Mexico,CONCACAF,13.0,1644.89,12.0,1649.57
+OD,Moldavia,,,,,
+MD,Moldova,UEFA,174.0,961.23,177.0,944.96
+MC,Monaco,,,,,
+MN,Mongolia,AFC,183.0,913.55,184.0,913.55
+ME,Montenegro,UEFA,69.0,1341.03,67.0,1354.59
+MS,Montserrat,CONCACAF,179.0,940.78,178.0,940.78
+MA,Morocco,CAF,22.0,1563.5,23.0,1558.35
+MZ,Mozambique,CAF,114.0,1165.22,116.0,1165.41
+MM,Myanmar,AFC,158.0,1007.89,158.0,1011.91
+NA,Namibia,CAF,115.0,1164.13,117.0,1164.13
+NP,Nepal,AFC,175.0,954.86,176.0,950.45
+NL,Netherlands,UEFA,8.0,1694.51,8.0,1679.41
+NL_loc,in the Netherlands,,,,,
+NC,New Caledonia,OFC,161.0,995.58,160.0,999.7
+NH,New Hebrides,,,,,
+NZ,New Zealand,OFC,105.0,1193.98,103.0,1198.96
+NI,Nicaragua,CONCACAF,142.0,1071.83,139.0,1079.18
+NE,Niger,CAF,121.0,1152.8,119.0,1155.23
+NG,Nigeria,CAF,32.0,1498.47,31.0,1504.7
+NU,Niue,,,,,
+KP,North Korea,AFC,112.0,1169.96,112.0,1169.96
+NM,North Macedonia,UEFA,65.0,1358.51,64.0,1375.2
+NV,North Vietnam,,,,,
+NY,North Yemen,,,,,
+NS,Northern Cyprus,,,,,
+ND,Northern Rhodesia,,,,,
+NO,Norway,UEFA,42.0,1473.04,36.0,1488.57
+AN,Netherlands Antilles,,,,,
+AN_loc,in the Netherlands Antilles,,,,,
+EI,Northern Ireland,UEFA,59.0,1396.55,58.0,1399.1
+NN,Nyasaland,,,,,
+MP,Northern Mariana Islands,,,,,
+MP_loc,in the Northern Mariana Islands,,,,,
+OM,Oman,AFC,75.0,1320.29,75.0,1323.03
+PK,Pakistan,AFC,194.0,866.81,195.0,866.81
+PW,Palau,,,,,
+PS,Palestine,AFC,94.0,1233.72,94.0,1233.72
+PA,Panama,CONCACAF,60.0,1393.28,61.0,1389.27
+PG,Papua New Guinea,OFC,159.0,1007.46,161.0,997.6
+PY,Paraguay,CONMEBOL,47.0,1448.77,50.0,1440.13
+PE,Peru,CONMEBOL,23.0,1561.01,21.0,1562.24
+PH,Philippines,AFC,133.0,1115.13,134.0,1115.13
+PH_loc,in the Philippines,,,,,
+PL,Poland,UEFA,26.0,1548.59,26.0,1546.18
+PT,Portugal,UEFA,9.0,1676.56,9.0,1678.65
+PU,Portuguese Guinea,,,,,
+PR,Puerto Rico,CONCACAF,170.0,974.32,170.0,974.32
+QA,Qatar,AFC,50.0,1439.89,48.0,1441.97
+RE,Reunion,,,,,
+RH,Rhodesia,,,,,
+RB,Ruanda-Urundi,,,,,
+RO,Romania,UEFA,53.0,1434.68,54.0,1427.84
+RU,Russia,UEFA,33.0,1496.11,35.0,1493.42
+RW,Rwanda,CAF,137.0,1093.66,136.0,1095.04
+SP,Saar,,,,,
+AB,Saba,,,,,
+WS,Samoa,OFC,191.0,894.26,191.0,894.26
+SM,San Marino,UEFA,211.0,762.22,211.0,763.82
+ST,Sao Tome and Principe,,,,,
+SA,Saudi Arabia,AFC,51.0,1437.78,53.0,1435.74
+SQ,Scotland,UEFA,40.0,1479.53,45.0,1462.96
+SN,Senegal,CAF,18.0,1584.38,18.0,1584.59
+RS,Serbia,UEFA,21.0,1563.62,25.0,1549.53
+RM,Serbia and Montenegro,,,,,
+SC,Seychelles,CAF,199.0,859.56,198.0,860.48
+SC_loc,in the Seychelles,,,,,
+SL,Sierra Leone,CAF,117.0,1160.31,113.0,1169.71
+SG,Singapore,AFC,160.0,1003.5,159.0,1004.75
+SK,Slovakia,UEFA,55.0,1425.59,51.0,1439.99
+SI,Slovenia,UEFA,63.0,1384.04,65.0,1372.48
+SB,Solomon Islands,OFC,136.0,1095.7,137.0,1092.56
+SB_loc,in the Solomon Islands,,,,,
+SO,Somalia,CAF,203.0,854.72,204.0,854.72
+JS,Somaliland,,,,,
+ZA,South Africa,CAF,67.0,1349.59,68.0,1350.55
+KR,South Korea,AFC,28.0,1530.3,28.0,1526.02
+SS,South Sudan,CAF,165.0,983.99,165.0,983.99
+RV,South Vietnam,,,,,
+DY,South Yemen,,,,,
+ZD,Southern Rhodesia,,,,,
+ES,Spain,UEFA,7.0,1715.22,6.0,1716.93
+LK,Sri Lanka,AFC,207.0,825.25,207.0,825.25
+BL,Saint Barthelemy,,,,,
+EU,Sint Eustatius,,,,,
+KT,Saint Kitts,,,,,
+KN,Saint Kitts and Nevis,,,,,
+LC,Saint Lucia,,,,,
+SX,Sint Maarten,,,,,
+MF,Saint Martin,,,,,
+PM,Saint Pierre and Miquelon,,,,,
+VC,Saint Vincent and the Grenadines,,,,,
+SD,Sudan,CAF,128.0,1127.34,130.0,1124.91
+UM,Surinam,,,,,
+SR,Suriname,CONCACAF,139.0,1077.3,143.0,1072.24
+SW,Eswatini,CAF,143.0,1070.89,144.0,1070.89
+SZ,Swaziland,,,,,
+SE,Sweden,UEFA,25.0,1553.33,20.0,1563.44
+CH,Switzerland,UEFA,15.0,1635.92,16.0,1621.43
+SY,Syria,AFC,90.0,1255.92,89.0,1265.03
+TI,Tahiti,OFC,162.0,995.11,162.0,995.11
+TW,Taiwan,,,,,
+TJ,Tajikistan,AFC,108.0,1185.7,109.0,1179.1
+TY,Tanganyika,,,,,
+TZ,Tanzania,CAF,130.0,1119.89,131.0,1121.91
+TH,Thailand,AFC,111.0,1174.92,111.0,1170.69
+TE,Tibet,,,,,
+TG,Togo,CAF,127.0,1128.92,126.0,1130.22
+TO,Tonga,OFC,197.0,861.81,197.0,861.81
+TT,Trinidad and Tobago,CONCACAF,104.0,1195.29,101.0,1205.85
+TN,Tunisia,CAF,30.0,1507.54,30.0,1507.86
+TR,Turkey,UEFA,45.0,1460.14,42.0,1475.13
+TM,Turkmenistan,AFC,135.0,1100.47,135.0,1100.47
+TC,Turks and Caicos Islands,CONCACAF,206.0,832.0,206.0,832.0
+TV,Tuvalu,,,,,
+AE,United Arab Emirates,AFC,70.0,1337.57,69.0,1346.09
+AE_loc,in the United Arab Emirates,,,,,
+UH,Ubangi-Shari,,,,,
+UG,Uganda,CAF,89.0,1260.69,90.0,1264.56
+UA,Ukraine,UEFA,27.0,1536.99,27.0,1542.79
+RR,United Arab Republic,,,,,
+RR_loc,in the United Arab Republic,,,,,
+UK,United Kingdom,,,,,
+UK_loc,in the United Kingdom,,,,,
+UV,Upper Volta,,,,,
+UY,Uruguay,CONMEBOL,14.0,1638.71,13.0,1640.95
+VI,US Virgin Islands,CONCACAF,208.0,823.97,208.0,823.97
+VI_loc,in the US Virgin Islands,,,,,
+US,United States,CONCACAF,16.0,1627.48,14.0,1635.01
+US_loc,in the United States,,,,,
+SU,Soviet Union,,,,,
+SU_loc,in the Soviet Union,,,,,
+UZ,Uzbekistan,AFC,77.0,1309.98,77.0,1306.63
+VU,Vanuatu,OFC,164.0,985.62,164.0,990.55
+VA,Vatican,,,,,
+VE,Venezuela,CONMEBOL,57.0,1404.37,56.0,1405.17
+VN,Vietnam,AFC,96.0,1226.65,97.0,1218.84
+WA,Wales,UEFA,19.0,1569.82,19.0,1582.13
+WF,Wallis and Futuna,,,,,
+WG,West Germany,,,,,
+EH,Western Sahara,,,,,
+WM,Western Samoa,,,,,
+YE,Yemen,AFC,155.0,1023.52,153.0,1023.52
+YU,Yugoslavia,,,,,
+ZR,Zaire,,,,,
+ZM,Zambia,CAF,88.0,1267.41,87.0,1270.8
+ZN,Zanzibar,,,,,
+ZW,Zimbabwe,CAF,125.0,1138.56,123.0,1138.56
